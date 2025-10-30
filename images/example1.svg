@@ -45,6 +45,7 @@
   <path d="M420 500 C420 550, 470 580, 500 580"
         stroke="white" fill="none" stroke-width="10"/>
 
+  <!-- Mittellinie (noch nicht gestrichelt) -->
   <path d="M250 500 C250 650, 350 750, 500 750"
         stroke="white" fill="none" stroke-width="10"/>
 
