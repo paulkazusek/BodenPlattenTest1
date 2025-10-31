@@ -37,18 +37,26 @@
   <line x1="895" y1="750" x2="980" y2="750" stroke="white" stroke-width="10"/>
 
   <!-- Unten Links -->
+
+  <!-- Hier brauche ich den richtigen Pfad -->
+  <!-- Asphalt Kurve unten links -->
+  <path d="M70,500 
+    Q70,930 500,930 
+    L500,570 
+    Q430, 570 430, 500" 
+    fill="#2f2f2f" />
+
   <!-- linke Außenlinie -->
-  <path d="M80 500 C80 800, 300 920, 500 920"
+  <path d="M80 500 Q80 920, 500 920"
         stroke="white" fill="none" stroke-width="10"/>
 
   <!-- rechte Außenlinie -->
-  <path d="M420 500 C420 550, 470 580, 500 580"
+  <path d="M420 500 Q420 580, 500 580"
         stroke="white" fill="none" stroke-width="10"/>
 
   <!-- Mittellinie (noch nicht gestrichelt) -->
-  <path d="M250 500 C250 650, 350 750, 500 750"
+  <path d="M250 500 Q250 750, 500 750"
         stroke="white" fill="none" stroke-width="10"/>
-
   <!-- Raster -->
   <line x1="0" y1="0" x2="0" y2="1000"
         stroke="red" stroke-width="1"/>
