@@ -21,11 +21,33 @@
   </symbol>
 
   <symbol id="kurve-west-nord" viewBox="0 0 500 500">
-    <!-- Inhalt aus straße-kurve-west-nach-nord.svg -->
+   <!-- Asphalt Kurve (um 500mm nach oben verschoben) -->
+<path d="M70,0 
+    Q70,430 500,430 
+    L500,70 
+    Q430,70 430,0" 
+    fill="#2f2f2f" />
+
+<!-- linke Außenlinie -->
+<path d="M80 0 Q80 420, 500 420"
+      stroke="white" fill="none" stroke-width="10"/>
+
+<!-- rechte Außenlinie -->
+<path d="M420 0 Q420 80, 500 80"
+      stroke="white" fill="none" stroke-width="10"/>
+
+<!-- Mittellinie (gestrichelt, angepasst an System 85/40) -->
+<path d="M250 0 Q250 250, 500 250"
+      stroke="white"
+      stroke-width="10"
+      fill="none"
+      stroke-dasharray="85,40"
+      stroke-dashoffset="-35"/>
   </symbol>
 
   <use href="#gerade-waagerecht" x="500" y="0" width="500" height="500" />
   <use href="#gerade-waagerecht" x="500" y="1000" width="500" height="500" />
+  <use href="#kurve-west-nord" x="0" y="1000" width="500" height="500" />
 
     <!-- Raster -->
   <line x1="0" y1="0" x2="0" y2="1500"
