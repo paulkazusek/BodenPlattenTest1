@@ -4,4 +4,5 @@
 
   <!-- Asphalt -->
   <rect x="0" y="70" width="500" height="360" fill="#2f2f2f"/>
+  <rect x="70" y="0" width="360" height="500" fill="#2f2f2f"/>
 </svg>
