@@ -50,6 +50,7 @@
   <use href="#gerade-waagerecht" x="500" y="0" width="500" height="500" />
   <use href="#gerade-waagerecht" x="500" y="1000" width="500" height="500" />
   <use href="#gerade-waagerecht" x="0" y="500" width="500" height="500" transform="rotate(90, 250, 750)"  />
+  <use href="#gerade-waagerecht" x="1000" y="500" width="500" height="500" transform="rotate(90, 1250, 750)"  />
      
   <use href="#kurve-west-nord" x="0" y="1000" width="500" height="500" />
   <use href="#kurve-west-nord" x="0" y="0" width="500" height="500" transform="rotate(90, 250, 250)" />
