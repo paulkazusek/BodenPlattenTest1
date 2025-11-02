@@ -4,7 +4,7 @@
 
   <!-- Asphalt -->
   <rect x="0" y="70" width="500" height="360" fill="#2f2f2f"/>
-  <rect x="70" y="0" width="360" height="70" fill="#2f2f2f"/>
+  <rect x="70" y="0" width="360" height="75" fill="#2f2f2f"/>
 
   <!-- Außenlinien -->
   <line x1="0" y1="420" x2="500" y2="420" stroke="white" stroke-width="10"/>
