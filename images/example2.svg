@@ -1,11 +1,11 @@
 <svg width="1500" height="1500" viewBox="0 0 1500 1500"
      xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Holzplatte Hintergrund -->
+  <rect x="0" y="0" width="1500" height="1500" fill="#c8b693"/>
+  
   <!-- Definiere Bausteine -->
   <symbol id="gerade-waagerecht" viewBox="0 0 500 500">
-    <!-- Holzplatte Hintergrund -->
-    <rect x="0" y="0" width="500" height="500" fill="#c8b693"/>
-
     <!-- Asphalt -->
     <rect x="0" y="70" width="500" height="360" fill="#2f2f2f"/>
 
@@ -21,8 +21,6 @@
   </symbol>
 
   <symbol id="kurve-west-nord" viewBox="0 0 500 500">
-    <!-- Holzplatte Hintergrund -->
-    <rect x="0" y="0" width="500" height="500" fill="#c8b693"/>
      <!-- Asphalt Kurve (um 500mm nach oben verschoben) -->
     <path d="M70,0 
       Q70,430 500,430 
