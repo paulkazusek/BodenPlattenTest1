@@ -1,7 +1,7 @@
 <svg width="4500" height="4500" viewBox="0 0 1500 1500"
      xmlns="http://www.w3.org/2000/svg">
 
-
+  <image href="straße-kurve-west-nach-nord.svg" x="0" y="0" width="500" height="500"/>
 
     <!-- Raster -->
   <line x1="0" y1="0" x2="0" y2="1500"
