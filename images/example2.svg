@@ -50,6 +50,7 @@
   <use href="#gerade-waagerecht" x="500" y="0" width="500" height="500" />
   <use href="#gerade-waagerecht" x="500" y="1000" width="500" height="500" />
   <use href="#kurve-west-nord" x="0" y="1000" width="500" height="500" />
+  <use href="#kurve-west-nord" x="0" y="0" width="500" height="500" transform="rotate(90, 250, 250)" />
 
     <!-- Raster -->
   <line x1="0" y1="0" x2="0" y2="1500"
