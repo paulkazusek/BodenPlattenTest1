@@ -20,7 +20,7 @@
     <line x1="395" y1="250" x2="480" y2="250" stroke="white" stroke-width="10"/>
   </symbol>
 
-  <symbol id="kurve-west-nord" viewBox="0 0 500 500">
+  <symbol id="kurve-west-nord" viewBox="0 0 500 500" width="500" height="500">
     <!-- Inhalt aus straße-kurve-west-nach-nord.svg -->
   </symbol>
 
