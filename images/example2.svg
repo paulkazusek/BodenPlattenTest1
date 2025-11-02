@@ -3,12 +3,28 @@
 
   <!-- Definiere Bausteine -->
   <symbol id="gerade-waagerecht" viewBox="0 0 500 500">
-    <!-- Inhalt aus gerade-straße-waagerecht.svg -->
+    <!-- Holzplatte Hintergrund -->
+    <rect x="0" y="0" width="500" height="500" fill="#c8b693"/>
+
+    <!-- Asphalt -->
+    <rect x="0" y="70" width="500" height="360" fill="#2f2f2f"/>
+
+    <!-- Außenlinien -->
+    <line x1="0" y1="80" x2="500" y2="80" stroke="white" stroke-width="10"/>
+    <line x1="0" y1="420" x2="500" y2="420" stroke="white" stroke-width="10"/>
+
+    <!-- Mittellinie (gestrichelt) -->
+    <line x1="20" y1="250" x2="105" y2="250" stroke="white" stroke-width="10"/>
+    <line x1="145" y1="250" x2="230" y2="250" stroke="white" stroke-width="10"/>
+    <line x1="270" y1="250" x2="355" y2="250" stroke="white" stroke-width="10"/>
+    <line x1="395" y1="250" x2="480" y2="250" stroke="white" stroke-width="10"/>
   </symbol>
 
   <symbol id="kurve-west-nord" viewBox="0 0 500 500">
     <!-- Inhalt aus straße-kurve-west-nach-nord.svg -->
   </symbol>
+
+  <use href="#gerade-waagerecht" x="500" y="0" />
 
     <!-- Raster -->
   <line x1="0" y1="0" x2="0" y2="1500"
