@@ -25,6 +25,7 @@
   </symbol>
 
   <use href="#gerade-waagerecht" x="500" y="0" width="500" height="500" />
+  <use href="#gerade-waagerecht" x="500" y="1000" width="500" height="500" />
 
     <!-- Raster -->
   <line x1="0" y1="0" x2="0" y2="1500"
