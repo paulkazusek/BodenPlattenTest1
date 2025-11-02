@@ -7,3 +7,5 @@ Maßstab etwa 1 : 22,5 ähnlich Spur G
 |:----|:-------------|:---------|
 | **Gerade** | Waagerecht und senkrecht | <img src="./images/straße-gerade-waagerecht.svg" width="300"> |
 | **Kurve** | West → Nord | <img src="./images/straße-kurve-west-nach-nord.svg" width="300"> |
+| **T-Kreuzung** | von Westen, Norden, Osten | |
+| **Kreuzung** | 4-Wege-Kreuzung | |
