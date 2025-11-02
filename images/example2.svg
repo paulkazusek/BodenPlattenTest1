@@ -22,6 +22,8 @@
         stroke="red" stroke-width="1"/>
   <line x1="4500" y1="0" x2="4500" y2="4500"
         stroke="red" stroke-width="1"/>
+  <line x1="4000" y1="0" x2="4000" y2="4500"
+        stroke="red" stroke-width="1"/>
 
   <line x1="0" y1="0" x2="4500" y2="0"
         stroke="red" stroke-width="1"/>
