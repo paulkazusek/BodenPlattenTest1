@@ -2,6 +2,8 @@
   <!-- Holzplatte Hintergrund -->
   <rect x="0" y="0" width="500" height="500" fill="#c8b693"/>
 
+  <line x1="0" y1="80" x2="500" y2="80" stroke="white" stroke-width="10"/>
+
   <!-- Asphalt -->
   <rect x="0" y="70" width="500" height="360" fill="#2f2f2f"/>
   <rect x="70" y="0" width="360" height="500" fill="#2f2f2f"/>
