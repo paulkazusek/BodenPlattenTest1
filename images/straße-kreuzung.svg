@@ -13,6 +13,7 @@
     Q430, 70 430, 0" 
     fill="#2f2f2f"/>
 
-  <line x1="0" y1="80" x2="80" y2="80" stroke="white" stroke-width="10"/>
-  <line x1="80" y1="0" x2="80" y2="80" stroke="white" stroke-width="10"/>
+  <!-- Außenlinien -->
+  <path d="M80 0 Q80 80, 0 80"
+      stroke="white" fill="none" stroke-width="10"/>
 </svg>
