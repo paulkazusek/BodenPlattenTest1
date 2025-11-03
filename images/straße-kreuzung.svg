@@ -30,4 +30,14 @@
       stroke="white" fill="none" stroke-width="10"/>
   <path d="M420 0 L420 60 Q420 80, 440 80 L500 80"
       stroke="white" fill="none" stroke-width="10"/>
+
+  <!-- Zebrastreifen west -->
+  <line x1="10" y1="110" x2="75" y2="110" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="150" x2="75" y2="150" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="190" x2="75" y2="190" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="230" x2="75" y2="230" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="270" x2="75" y2="270" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="310" x2="75" y2="310" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="350" x2="75" y2="350" stroke="white" stroke-width="20"/>
+  <line x1="10" y1="390" x2="75" y2="390" stroke="white" stroke-width="20"/>
 </svg>
