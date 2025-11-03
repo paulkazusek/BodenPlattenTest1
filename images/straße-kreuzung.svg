@@ -16,4 +16,10 @@
   <!-- Außenlinien -->
   <path d="M80 0 Q80 80, 0 80"
       stroke="white" fill="none" stroke-width="10"/>
+  <path d="M0 420 Q80 420, 80 500"
+      stroke="white" fill="none" stroke-width="10"/>
+  <path d="M420 500 Q420 420, 500 420"
+      stroke="white" fill="none" stroke-width="10"/>
+  <path d="M420 0 Q420 80, 500 80"
+      stroke="white" fill="none" stroke-width="10"/>
 </svg>
