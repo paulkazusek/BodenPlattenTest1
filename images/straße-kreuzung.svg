@@ -16,7 +16,7 @@
   <!-- Außenlinien -->
   <path d="M80 0 L 80 60 Q80 80, 60 80 L0 80"
       stroke="white" fill="none" stroke-width="10"/>
-  <path d="M0 420 Q80 420, 80 500"
+  <path d="M0 420 L60 420 Q80 420, 80 440 L80 500"
       stroke="white" fill="none" stroke-width="10"/>
   <path d="M420 500 Q420 420, 500 420"
       stroke="white" fill="none" stroke-width="10"/>
